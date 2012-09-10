@@ -2,7 +2,7 @@
 
 ### What is flare?
 
-Flare is a project oriented towards creating a uniform standard with Runescape private emulation.
+Flare is a project oriented towards creating a uniform standard with Runescape private emulation networking.
 
 ## Outgoing Frame Standards
 
