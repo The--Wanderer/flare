@@ -4,7 +4,7 @@
 
 Flare is a project oriented towards creating a uniform standard with Runescape private emulation.
 
-## Frame Standards
+## Outgoing Frame Standards
 
 ### Menu Options
 
